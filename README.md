@@ -23,4 +23,6 @@ const CoinHive = require('coin-hive');
 })();
 ```
 ### Command
+```
 coin-hive <YOUR-LONERO-ADDRESS> --pool-host=142.93.171.115 --pool-port=3333 --pool-pass=<YOUR-PASSWORD-FOR-POOL>
+```
